@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculetteAndroid</string>
+    <string name="Pile3"></string>
+    <string name="Pile2"></string>
+    <string name="Pile1"></string>
+    <string name="Pile0"></string>
+    <string name="Saisie"></string>
+    <string name="ClearSaisie">Vider la saisie</string>
+</resources>
